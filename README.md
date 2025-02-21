@@ -1,7 +1,7 @@
 # Tuberculosis-Detection
 This project is a web application for detecting Tuberculosis (TB) using a deep learning model, specifically the ResNet50 architecture. The application allows users to upload chest X-ray images and receive predictions on the presence of TB.
 
-Usage
+# Usage
 Open the web application in your browser.
 Click on the "Upload Image" button to upload a chest X-ray image.
 After the image is processed, the model will return a prediction indicating whether TB is detected or not.
